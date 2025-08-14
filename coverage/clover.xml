@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1755182228661" clover="3.2.0">
-  <project timestamp="1755182228661" name="All files">
-    <metrics statements="35" coveredstatements="30" conditionals="15" coveredconditionals="8" methods="10" coveredmethods="10" elements="60" coveredelements="48" complexity="0" loc="35" ncloc="35" packages="1" files="2" classes="2"/>
+<coverage generated="1755185558778" clover="3.2.0">
+  <project timestamp="1755185558778" name="All files">
+    <metrics statements="48" coveredstatements="43" conditionals="20" coveredconditionals="12" methods="13" coveredmethods="13" elements="81" coveredelements="68" complexity="0" loc="48" ncloc="48" packages="1" files="3" classes="3"/>
     <file name="Gameboard.js" path="C:\Users\User\3D Objects\yeahhhhhhh\Battlefield\Gameboard.js">
       <metrics statements="30" coveredstatements="25" conditionals="15" coveredconditionals="8" methods="7" coveredmethods="7"/>
-      <line num="1" count="1" type="stmt"/>
+      <line num="1" count="2" type="stmt"/>
       <line num="4" count="4" type="stmt"/>
       <line num="6" count="40" type="stmt"/>
       <line num="7" count="4" type="stmt"/>
@@ -33,7 +33,23 @@
       <line num="49" count="1" type="stmt"/>
       <line num="52" count="4" type="stmt"/>
       <line num="58" count="3" type="stmt"/>
-      <line num="63" count="1" type="stmt"/>
+      <line num="63" count="2" type="stmt"/>
+    </file>
+    <file name="Player.js" path="C:\Users\User\3D Objects\yeahhhhhhh\Battlefield\Player.js">
+      <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="13" count="51" type="stmt"/>
+      <line num="14" count="62" type="stmt"/>
+      <line num="15" count="62" type="stmt"/>
+      <line num="16" count="62" type="stmt"/>
+      <line num="19" count="51" type="stmt"/>
+      <line num="20" count="51" type="stmt"/>
+      <line num="21" count="51" type="stmt"/>
+      <line num="24" count="5" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
     </file>
     <file name="Ship.js" path="C:\Users\User\3D Objects\yeahhhhhhh\Battlefield\Ship.js">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
@@ -41,7 +57,7 @@
       <line num="6" count="6" type="stmt"/>
       <line num="10" count="4" type="stmt"/>
       <line num="13" count="7" type="stmt"/>
-      <line num="20" count="2" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
     </file>
   </project>
 </coverage>
